@@ -10,4 +10,6 @@ router.get('/', (req, res) => {
 
 router.use('/members', require('./members'));
 
+router.use('/templevisits', require('./templeVisits'));
+
 module.exports = router;

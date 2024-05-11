@@ -1,0 +1,92 @@
+[
+    {
+      "lastname": "Smith",
+      "firstname": "John",
+      "birthdate": "1985-03-15",
+      "phone": "+1234567890",
+      "email": "john.smith@example.com",
+      "address": "123 Main St, Anytown",
+      "baptismdate": "2024-01-10"
+    },
+    {
+      "lastname": "Johnson",
+      "firstname": "Emily",
+      "birthdate": "1990-07-25",
+      "phone": "+1987654321",
+      "email": "emily.johnson@example.com",
+      "address": "456 Elm St, Anothercity",
+      "baptismdate": "2024-01-15"
+    },
+    {
+      "lastname": "Williams",
+      "firstname": "Michael",
+      "birthdate": "1982-11-10",
+      "phone": "+1555123456",
+      "email": "michael.williams@example.com",
+      "address": "789 Oak St, Somewhereville",
+      "baptismdate": "2024-02-05"
+    },
+    {
+      "lastname": "Brown",
+      "firstname": "Jessica",
+      "birthdate": "1995-02-18",
+      "phone": "+1202456789",
+      "email": "jessica.brown@example.com",
+      "address": "321 Pine St, Anyplace",
+      "baptismdate": "2024-02-20"
+    },
+    {
+      "lastname": "Jones",
+      "firstname": "Robert",
+      "birthdate": "1988-09-03",
+      "phone": "+1888777666",
+      "email": "robert.jones@example.com",
+      "address": "555 Cedar St, Nowhere",
+      "baptismdate": "2024-03-10"
+    },
+    {
+      "lastname": "Garcia",
+      "firstname": "Maria",
+      "birthdate": "1993-06-20",
+      "phone": "+16669998888",
+      "email": "maria.garcia@example.com",
+      "address": "777 Maple St, Elsewhere",
+      "baptismdate": "2024-03-25"
+    },
+    {
+      "lastname": "Miller",
+      "firstname": "David",
+      "birthdate": "1980-04-30",
+      "phone": "+1555234521",
+      "email": "david.miller@example.com",
+      "address": "999 Walnut St, Anytown",
+      "baptismdate": "2024-01-05"
+    },
+    {
+      "lastname": "Davis",
+      "firstname": "Sarah",
+      "birthdate": "1991-12-05",
+      "phone": "+1999888777",
+      "email": "sarah.davis@example.com",
+      "address": "888 Birch St, Anothercity",
+      "baptismdate": "2024-02-15"
+    },
+    {
+      "lastname": "Wilson",
+      "firstname": "James",
+      "birthdate": "1987-08-12",
+      "phone": "+1444333222",
+      "email": "james.wilson@example.com",
+      "address": "111 Pine St, Somewhereville",
+      "baptismdate": "2024-03-01"
+    },
+    {
+      "lastname": "Martinez",
+      "firstname": "Emma",
+      "birthdate": "1998-01-28",
+      "phone": "+1888999000",
+      "email": "emma.martinez@example.com",
+      "address": "444 Oak St, Anyplace",
+      "baptismdate": "2024-03-10"
+    }
+  ]

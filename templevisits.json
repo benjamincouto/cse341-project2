@@ -1,0 +1,77 @@
+[
+    {
+      "date": "2023-07-15",
+      "starttime": "10:00 AM",
+      "organizer": "John Doe"
+    },
+    {
+      "date": "2023-08-20",
+      "starttime": "2:30 PM",
+      "organizer": "Jane Smith"
+    },
+    {
+      "date": "2023-09-05",
+      "starttime": "9:45 AM",
+      "organizer": "Michael Johnson"
+    },
+    {
+      "date": "2023-10-12",
+      "starttime": "11:15 AM",
+      "organizer": "Emily Williams"
+    },
+    {
+      "date": "2023-11-28",
+      "starttime": "3:00 PM",
+      "organizer": "Robert Brown"
+    },
+    {
+      "date": "2023-12-10",
+      "starttime": "1:45 PM",
+      "organizer": "Maria Garcia"
+    },
+    {
+      "date": "2024-01-05",
+      "starttime": "10:30 AM",
+      "organizer": "David Miller"
+    },
+    {
+      "date": "2024-02-20",
+      "starttime": "4:15 PM",
+      "organizer": "Sarah Davis"
+    },
+    {
+      "date": "2024-03-15",
+      "starttime": "12:00 PM",
+      "organizer": "James Wilson"
+    },
+    {
+      "date": "2024-04-18",
+      "starttime": "2:00 PM",
+      "organizer": "Emma Martinez"
+    },
+    {
+      "date": "2024-05-20",
+      "starttime": "11:30 AM",
+      "organizer": "John Doe"
+    },
+    {
+      "date": "2024-06-25",
+      "starttime": "3:30 PM",
+      "organizer": "Jane Smith"
+    },
+    {
+      "date": "2024-07-10",
+      "starttime": "10:45 AM",
+      "organizer": "Michael Johnson"
+    },
+    {
+      "date": "2024-08-12",
+      "starttime": "1:00 PM",
+      "organizer": "Emily Williams"
+    },
+    {
+      "date": "2024-09-30",
+      "starttime": "4:45 PM",
+      "organizer": "Robert Brown"
+    }
+  ]
